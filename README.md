@@ -1,2 +1,2 @@
-# libmzdb
-A C library for reading mzDB files
+# p6mzdb
+Perl6 bindings for the libmzdb C library
